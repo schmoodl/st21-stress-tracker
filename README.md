@@ -1,1 +1,1 @@
-UI files for Stress Tracker.
+UX files for Stress Tracker.
