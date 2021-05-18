@@ -1,4 +1,1 @@
-# st21-stress-tracker
-Main agenda:
-
-Develop a minimum viable product to track and reduce stress.
+UI files for Stress Tracker.
